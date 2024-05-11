@@ -4,6 +4,7 @@ I am Gleb Shalimov. Currently I work mainly with Dart and Flutter for applicatio
 
 ### I created products like:
 
+- [Gen Art Backgrounds Flutter package](https://pub.dev/packages/gen_art_bg/score)
 - [Wave Logo Generator](https://wave-logo.vercel.app/)
 - Extensions for Raycast ([habr.ru](https://www.raycast.com/khlebobul/habr-media) / [vc.ru](https://www.raycast.com/khlebobul/vc-ru-news) / [rb.ru](https://www.raycast.com/khlebobul/rusbase) / [techcrunch.com](https://www.raycast.com/khlebobul/techcrunch) / [espn.com](https://www.raycast.com/khlebobul/espn))
 - [@ph_daily](https://t.me/ph_daily)
