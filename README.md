@@ -9,4 +9,4 @@ I am Gleb Shalimov. Currently I work mainly with Dart and Flutter for applicatio
 - Extensions for Raycast ([habr.ru](https://www.raycast.com/khlebobul/habr-media) / [vc.ru](https://www.raycast.com/khlebobul/vc-ru-news) / [rb.ru](https://www.raycast.com/khlebobul/rusbase) / [techcrunch.com](https://www.raycast.com/khlebobul/techcrunch) / [espn.com](https://www.raycast.com/khlebobul/espn))
 - [@ph_daily](https://t.me/ph_daily)
 
-You can learn more about me by visiting my personal [website](https://bento.me/khlebobul).
+You can learn more about me by visiting my personal [website](https://khlebobul.github.io).
