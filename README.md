@@ -2,7 +2,7 @@
 
 I am Gleb Shalimov. Currently I work mainly with Dart and Flutter for application development and JavaScript for website development. In my free time I create my own small projects and get into Generative Art. I like to create clean, user-friendly and accessible user interfaces for both users and developers.
 
-### I created products like:
+### Side projects:
 
 - [Gen Art Backgrounds Flutter package](https://pub.dev/packages/gen_art_bg)
 - [Raycast extensions](https://www.raycast.com/khlebobul)
