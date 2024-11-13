@@ -4,8 +4,7 @@ I am Gleb Shalimov. Currently I work mainly with Dart and Flutter for applicatio
 
 ### Side projects:
 
-- Knight's Graph // fascinating puzzle game
-  - [Website](https://knightsgraph.vercel.app)
+- [Knight's Graph](https://knightsgraph.vercel.app) // fascinating puzzle game
   - [App Store](https://apps.apple.com/us/app/knights-graph/id6737812039)
   - Google Play (coming soon)
 - [Figure 8](https://khlebobul26.gumroad.com/l/figure8) // companion for maintaining eye health
