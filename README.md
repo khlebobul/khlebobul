@@ -7,10 +7,16 @@ I am Gleb Shalimov. Currently I work mainly with Dart and Flutter for applicatio
 - [Knight's Graph](https://knightsgraph.vercel.app) // fascinating puzzle game
   - [App Store](https://apps.apple.com/us/app/knights-graph/id6737812039)
   - Google Play (coming soon)
-- [Figure 8](https://khlebobul26.gumroad.com/l/figure8) // companion for maintaining eye health
 - [Gen Art Backgrounds Flutter package](https://pub.dev/packages/gen_art_bg) // flutter package
 - [Raycast extensions](https://www.raycast.com/khlebobul)
-- [Wave Logo Generator](https://wave-logo.vercel.app/) // logo buddy
+
+<details>
+  <summary>More</summary>
+  
+  - [Figure 8](https://khlebobul26.gumroad.com/l/figure8) // companion for maintaining eye health
+  - [Wave Logo Generator](https://wave-logo.vercel.app/) // logo buddy
+  
+</details>
 
 ### Articles
 
