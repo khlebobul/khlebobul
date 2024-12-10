@@ -6,7 +6,7 @@ I am Gleb Shalimov. Currently I work mainly with Dart and Flutter for applicatio
 
 - [Knight's Graph](https://knightsgraph.vercel.app) // fascinating puzzle game
   - [App Store](https://apps.apple.com/us/app/knights-graph/id6737812039)
-  - Google Play (coming soon)
+  - [Google Play](https://play.google.com/store/apps/details?id=com.khlebobul.knights_graph)
 - [Square Ribbon](https://www.figma.com/community/plugin/1441862652881971511/square-ribbon) // figma plugin
 - [Gen Art Backgrounds Flutter package](https://pub.dev/packages/gen_art_bg) // flutter package
 - [Raycast extensions](https://www.raycast.com/khlebobul)
