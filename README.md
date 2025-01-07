@@ -8,13 +8,13 @@ I am Gleb Shalimov. Currently I work mainly with Dart and Flutter for applicatio
   - [App Store](https://apps.apple.com/us/app/knights-graph/id6737812039)
   - [Google Play](https://play.google.com/store/apps/details?id=com.khlebobul.knights_graph)
 - [use_scramble](https://pub.dev/packages/use_scramble) // lightweight package for random text animations
-- [Square Ribbon](https://www.figma.com/community/plugin/1441862652881971511/square-ribbon) // figma plugin
 - [gen_art_bg](https://pub.dev/packages/gen_art_bg) // animated generative art backgrounds collection flutter
 - [Raycast extensions](https://www.raycast.com/khlebobul)
 
 <details>
   <summary>More</summary>
-  
+
+  - [Square Ribbon](https://www.figma.com/community/plugin/1441862652881971511/square-ribbon) // figma plugin
   - [Figure 8](https://khlebobul26.gumroad.com/l/figure8) // companion for maintaining eye health
   - [Wave Logo Generator](https://wave-logo.vercel.app/) // logo buddy
   
