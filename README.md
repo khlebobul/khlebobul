@@ -28,4 +28,7 @@ I am Gleb Shalimov. Currently I work mainly with Dart and Flutter for applicatio
 - [Adding a bit of Generative Art to a Flutter project](https://medium.com/@khlebobul/adding-a-bit-of-generative-art-to-a-flutter-project-13b22dd4f274) // medium
 - [Animated grid background in Flutter](https://medium.com/@khlebobul/animated-grid-background-in-flutter-fda98db76bdb) // medium
 
+### Papers
+- [Automating customer feedback in online marketplaces with retrieval augmented generation](https://www.researchgate.net/publication/388390529_Automating_customer_feedback_in_online_marketplaces_with_retrieval_augmented_generation)
+
 You can learn more about me by visiting my personal [website](https://khlebobul.github.io).
