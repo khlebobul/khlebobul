@@ -2,7 +2,7 @@
 
 I am Gleb Shalimov. Currently I work mainly with Dart and Flutter for application development and JavaScript for website development. In my free time I create my own small projects and get into Generative Art. I like to create clean, user-friendly and accessible user interfaces for both users and developers.
 
-### Side projects:
+### Side projects
 
 - [Knight's Graph](https://knightsgraph.vercel.app) // fascinating puzzle game
   - [App Store](https://apps.apple.com/us/app/knights-graph/id6737812039)
