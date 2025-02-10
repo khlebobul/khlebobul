@@ -14,6 +14,7 @@ I am Gleb Shalimov. Currently I work mainly with Dart and Flutter for applicatio
 <details>
   <summary>More</summary>
 
+  - [LEGO Block Image Processor](https://lego-processor.vercel.app) // Images ➭ lego blocks instruction
   - [Square Ribbon](https://www.figma.com/community/plugin/1441862652881971511/square-ribbon) // figma plugin
   - [Figure 8](https://khlebobul26.gumroad.com/l/figure8) // companion for maintaining eye health
   - [Wave Logo Generator](https://wave-logo.vercel.app/) // logo buddy
