@@ -18,14 +18,3 @@
   - [wave logo generator](https://wave-logo.vercel.app/) // logo buddy
   
 </details>
-
-### articles
-
-- [scramble effect for text flutter widget](https://medium.com/@khlebobul/scramble-effect-for-text-flutter-widget-d92df44dd7a8) // medium
-- [how to work with dynamic island in the flutter application](https://medium.com/@khlebobul/how-to-work-with-dynamic-island-in-the-flutter-application-89851b0d9887) // medium
-- [a camera effect with flutter](https://medium.com/@khlebobul/ascii-camera-effect-with-flutter-5433029f4387) // medium
-- [adding a bit of generative art to a flutter project](https://medium.com/@khlebobul/adding-a-bit-of-generative-art-to-a-flutter-project-13b22dd4f274) // medium
-- [animated grid background in flutter](https://medium.com/@khlebobul/animated-grid-background-in-flutter-fda98db76bdb) // medium
-
-### papers
-- [automating customer feedback in online marketplaces with retrieval augmented generation](https://www.researchgate.net/publication/388390529_Automating_customer_feedback_in_online_marketplaces_with_retrieval_augmented_generation)
