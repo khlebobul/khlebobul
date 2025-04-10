@@ -1,4 +1,10 @@
-➭ [website](https://khlebobul.github.io)
+<pre>
+<a href="https://khlebobul.github.io">              _         _ _        </a>
+<a href="https://khlebobul.github.io">__      _____| |__  ___(_) |_ ___  </a>
+<a href="https://khlebobul.github.io">\ \ /\ / / _ \ '_ \/ __| | __/ _ \ </a>
+<a href="https://khlebobul.github.io"> \ V  V /  __/ |_) \__ \ | ||  __/  </a>
+<a href="https://khlebobul.github.io">  \_/\_/ \___|_.__/|___/_|\__\___| </a>
+</pre>
 
 ### side projects
 
@@ -10,7 +16,7 @@
 - [raycast extensions](https://www.raycast.com/khlebobul)
 
 <details>
-  <summary>experiments</summary>
+  <summary>  ✧⁠◝⁠(⁠⁰⁠▿⁠⁰⁠)⁠◜⁠✧  experiments</summary>
 
   - [lego block image processor](https://lego-processor.vercel.app) // Images ➭ lego blocks instruction
   - [square ribbon](https://www.figma.com/community/plugin/1441862652881971511/square-ribbon) // figma plugin
