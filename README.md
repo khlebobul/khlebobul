@@ -8,6 +8,9 @@
 
 ### side projects
 
+- [board buddy](https://boardbuddyapp.vercel.app) // your ultimate board game companion
+  - [app store](https://apps.apple.com/ru/app/board-buddy-score-counter/id6743980638?)
+  - [google play]()
 - [knight's graph](https://knightsgraph.vercel.app) // fascinating puzzle game
   - [app store](https://apps.apple.com/us/app/knights-graph/id6737812039)
   - [google play](https://play.google.com/store/apps/details?id=com.khlebobul.knights_graph)
