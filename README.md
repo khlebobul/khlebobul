@@ -1,9 +1,12 @@
 <pre>
-<a href="https://khlebobul.github.io">              _         _ _        </a>
-<a href="https://khlebobul.github.io">__      _____| |__  ___(_) |_ ___  </a>
-<a href="https://khlebobul.github.io">\ \ /\ / / _ \ '_ \/ __| | __/ _ \ </a>
-<a href="https://khlebobul.github.io"> \ V  V /  __/ |_) \__ \ | ||  __/  </a>
-<a href="https://khlebobul.github.io">  \_/\_/ \___|_.__/|___/_|\__\___| </a>
++----------------------------+
+|       <a href="https://khlebobul.github.io">personal website</a>     |
++----------------------------+
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
 </pre>
 
 ### side projects
@@ -16,11 +19,11 @@
   - [google play](https://play.google.com/store/apps/details?id=com.khlebobul.knights_graph)
 - [use_scramble](https://pub.dev/packages/use_scramble) // lightweight package for random text animations
 - [gen_art_bg](https://pub.dev/packages/gen_art_bg) // animated generative art backgrounds collection flutter
-- [raycast extensions](https://www.raycast.com/khlebobul)
 
 <details>
   <summary>  ✧⁠◝⁠(⁠⁰⁠▿⁠⁰⁠)⁠◜⁠✧  experiments</summary>
 
+  - [raycast extensions](https://www.raycast.com/khlebobul)
   - [lego block image processor](https://lego-processor.vercel.app) // Images ➭ lego blocks instruction
   - [square ribbon](https://www.figma.com/community/plugin/1441862652881971511/square-ribbon) // figma plugin
   - [figure 8](https://khlebobul26.gumroad.com/l/figure8) // companion for maintaining eye health
