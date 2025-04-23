@@ -1,6 +1,6 @@
 <pre>
 +----------------------------+
-|       <a href="https://khlebobul.github.io">personal website</a>     |
+|      <a href="https://khlebobul.github.io">personal website</a>      |
 +----------------------------+
         \   ^__^
          \  (oo)\_______
@@ -17,16 +17,18 @@
 - [knight's graph](https://knightsgraph.vercel.app) // fascinating puzzle game
   - [app store](https://apps.apple.com/us/app/knights-graph/id6737812039)
   - [google play](https://play.google.com/store/apps/details?id=com.khlebobul.knights_graph)
-- [use_scramble](https://pub.dev/packages/use_scramble) // lightweight package for random text animations
-- [gen_art_bg](https://pub.dev/packages/gen_art_bg) // animated generative art backgrounds collection flutter
 
 <details>
-  <summary>  ✧⁠◝⁠(⁠⁰⁠▿⁠⁰⁠)⁠◜⁠✧  experiments</summary>
-
-  - [raycast extensions](https://www.raycast.com/khlebobul)
-  - [lego block image processor](https://lego-processor.vercel.app) // Images ➭ lego blocks instruction
-  - [square ribbon](https://www.figma.com/community/plugin/1441862652881971511/square-ribbon) // figma plugin
-  - [figure 8](https://khlebobul26.gumroad.com/l/figure8) // companion for maintaining eye health
-  - [wave logo generator](https://wave-logo.vercel.app/) // logo buddy
-  
+  <summary><strong>experiments</strong> ✧⁠◝⁠(⁠⁰⁠▿⁠⁰⁠)⁠◜⁠✧</summary>
+  <p></p>
+  <ul>
+    <li><a href="https://pub.dev/packages/use_scramble">use_scramble</a> — lightweight package for random text animations</li>
+    <li><a href="https://pub.dev/packages/gen_art_bg">gen_art_bg</a> — animated generative art backgrounds collection flutter</li>
+    <li><a href="https://www.raycast.com/khlebobul">raycast extensions</a></li>
+    <li><a href="https://lego-processor.vercel.app">lego block image processor</a> — Images ➭ lego blocks instruction</li>
+    <li><a href="https://www.figma.com/community/plugin/1441862652881971511/square-ribbon">square ribbon</a> — figma plugin</li>
+    <li><a href="https://khlebobul26.gumroad.com/l/figure8">figure 8</a> — companion for maintaining eye health</li>
+    <li><a href="https://wave-logo.vercel.app/">wave logo generator</a> — logo buddy</li>
+  </ul>
 </details>
+
