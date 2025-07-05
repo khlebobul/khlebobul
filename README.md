@@ -22,7 +22,7 @@
   <summary><strong>experiments</strong> ✧⁠◝⁠(⁠⁰⁠▿⁠⁰⁠)⁠◜⁠✧</summary>
   <p></p>
   <ul>
-    <li><a href="https://pub.dev/packages/not_static_icons">use_scramble</a> — beautifully crafted animated icons for flutter without rive or lottie</li>      
+    <li><a href="https://pub.dev/packages/not_static_icons">not_static_icons</a> — beautifully crafted animated icons for flutter without rive or lottie</li>      
     <li><a href="https://pub.dev/packages/use_scramble">use_scramble</a> — lightweight package for random text animations</li>
     <li><a href="https://pub.dev/packages/gen_art_bg">gen_art_bg</a> — animated generative art backgrounds collection flutter</li>
     <li><a href="https://www.raycast.com/khlebobul">raycast extensions</a></li>
