@@ -25,7 +25,7 @@
       <td>
         <a href="https://apps.apple.com/ru/app/pegma-peg-solitaire/id6754343848">App Store</a> /
         <a href="https://play.google.com/store/apps/details?id=com.khlebobul.pegma">Google Play</a> /
-        <a href="https://github.com/khlebobul/pegma">github</a> /
+        <a href="https://github.com/khlebobul/pegma">Github</a> /
         <a href="https://www.rustore.ru/catalog/app/com.khlebobul.pegma">Rustore</a>
       </td>
     </tr>
@@ -35,7 +35,7 @@
       <td>
         <a href="https://apps.apple.com/ru/app/board-buddy-score-counter/id6743980638">App Store</a> /
         <a href="https://play.google.com/store/apps/details?id=com.khlebobul.board_buddy">Google Play</a> /
-        <a href="https://github.com/khlebobul/board_buddy">github</a> /
+        <a href="https://github.com/khlebobul/board_buddy">Github</a> /
         <a href="https://www.rustore.ru/catalog/app/com.khlebobul.board_buddy">Rustore</a>
       </td>
     </tr>
