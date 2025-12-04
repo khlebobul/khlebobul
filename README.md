@@ -92,6 +92,69 @@
 </table>
 
 <details>
+  <summary><strong>Flutter packages</strong></summary>
+  <table>
+    <thead>
+      <tr>
+        <th width="34"></th>
+        <th>Description</th>
+        <th width="50">Links</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td width="34">
+          <a href="https://pub.dev/packages/not_static_icons">
+            <img src="icons/icons/pubdev.png" alt="pub.dev" height="32" />
+          </a>
+        </td>
+        <td>
+          <a href="https://pub.dev/packages/not_static_icons">not_static_icons</a> — Beautifully crafted animated icons for flutter made with lucide icons
+        </td>
+        <td>
+          <a href="https://not-static-icons.vercel.app/">
+            <img src="icons/icons/web.png" alt="Demo" height="20" />
+          </a>
+          <a href="https://github.com/khlebobul/not_static_icons">
+            <img src="icons/icons/github.png" alt="GitHub" height="20" />
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td width="34">
+          <a href="https://pub.dev/packages/use_scramble">
+            <img src="icons/icons/pubdev.png" alt="pub.dev" height="32" />
+          </a>
+        </td>
+        <td>
+          <a href="https://pub.dev/packages/use_scramble">use_scramble</a> — Lightweight package for random text animations
+        </td>
+        <td>
+          <a href="https://github.com/khlebobul/use_scramble">
+            <img src="icons/icons/github.png" alt="GitHub" height="20" />
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td width="34">
+          <a href="https://pub.dev/packages/gen_art_bg">
+            <img src="icons/icons/pubdev.png" alt="pub.dev" height="32" />
+          </a>
+        </td>
+        <td>
+          <a href="https://pub.dev/packages/gen_art_bg">gen_art_bg</a> — Animated generative art backgrounds collection flutter
+        </td>
+        <td>
+          <a href="https://github.com/khlebobul/gen_art_bg">
+            <img src="icons/icons/github.png" alt="GitHub" height="20" />
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<details>
   <summary><strong>Others</strong></summary>
   <table>
     <thead>
@@ -102,28 +165,6 @@
       </tr>
     </thead>
     <tbody>
-      <tr>
-        <td><a href="https://pub.dev/packages/not_static_icons">not_static_icons</a></td>
-        <td>Beautifully crafted animated icons for flutter made with lucide icons</td>
-        <td>
-          <a href="https://not-static-icons.vercel.app/">Demo</a> /
-          <a href="https://github.com/khlebobul/not_static_icons">Github</a>
-        </td>
-      </tr>
-      <tr>
-        <td><a href="https://pub.dev/packages/use_scramble">use_scramble</a></td>
-        <td>Lightweight package for random text animations</td>
-        <td>
-          <a href="https://github.com/khlebobul/use_scramble">Github</a>
-        </td>
-      </tr>
-      <tr>
-        <td><a href="https://pub.dev/packages/gen_art_bg">gen_art_bg</a></td>
-        <td>Animated generative art backgrounds collection flutter</td>
-        <td>
-          <a href="https://github.com/khlebobul/gen_art_bg">Github</a>
-        </td>
-      </tr>
       <tr>
         <td><a href="https://www.raycast.com/khlebobul">Raycast extensions</a></td>
         <td>Helpful raycast extensions for developers</td>
