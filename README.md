@@ -193,30 +193,69 @@
   <table>
     <thead>
       <tr>
-        <th>Name</th>
         <th>Description</th>
+        <th width="50">Links</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td><a href="https://github.com/khlebobul/flutter_voice_control_example_app">Flutter voice control example app</a></td>
-        <td>Flutter app example with local speech recognition and voice command control using sherpa-onnx</td>
+        <td>
+          <a href="https://github.com/khlebobul/flutter_voice_control_example_app">Flutter voice control example app</a> — Flutter app example with local speech recognition and voice command control using sherpa-onnx
+        </td>
+        <td>
+          <a href="https://medium.com/@khlebobul/voice-control-in-flutter-how-to-add-local-speech-recognition-to-your-app-4bcd96bfd896">
+            <img src="icons/icons/medium.png" alt="Medium" height="20" />
+          </a>
+          <a href="https://github.com/khlebobul/flutter_voice_control_example_app">
+            <img src="icons/icons/github.png" alt="GitHub" height="20" />
+          </a>
+        </td>
       </tr>
       <tr>
-        <td><a href="https://github.com/khlebobul/ascii_blur">ASCII blur</a></td>
-        <td>Images ➭ an artistic blend of blur and ASCII art with flutter</td>
+        <td>
+          <a href="https://github.com/khlebobul/ascii_blur">ASCII blur</a> — Images ➭ an artistic blend of blur and ASCII art with flutter
+        </td>
+        <td>
+          <a href="https://github.com/khlebobul/ascii_blur">
+            <img src="icons/icons/github.png" alt="GitHub" height="20" />
+          </a>
+        </td>
       </tr>
       <tr>
-        <td><a href="https://github.com/khlebobul/ascii_cat">ASCII cat</a></td>
-        <td>Cute ASCII cat app 🐈‍⬛</td>
+        <td>
+          <a href="https://github.com/khlebobul/ascii_cat">ASCII cat</a> — Cute ASCII cat app 🐈‍⬛
+        </td>
+        <td>
+          <a href="https://github.com/khlebobul/ascii_cat">
+            <img src="icons/icons/github.png" alt="GitHub" height="20" />
+          </a>
+        </td>
       </tr>
       <tr>
-        <td><a href="https://github.com/khlebobul/ascii_camera">ASCII camera</a></td>
-        <td>ASCII camera effect with flutter</td>
+        <td>
+          <a href="https://github.com/khlebobul/ascii_camera">ASCII camera</a> — ASCII camera effect with flutter
+        </td>
+        <td>
+          <a href="https://medium.com/@khlebobul/ascii-camera-effect-with-flutter-5433029f4387">
+            <img src="icons/icons/medium.png" alt="Medium" height="20" />
+          </a>
+          <a href="https://github.com/khlebobul/ascii_camera">
+            <img src="icons/icons/github.png" alt="GitHub" height="20" />
+          </a>
+        </td>
       </tr>
       <tr>
-        <td><a href="https://github.com/khlebobul/dynamic_island_pet">Dynamic Island pet</a></td>
-        <td>Dynamic Island pet companion</td>
+        <td>
+          <a href="https://github.com/khlebobul/dynamic_island_pet">Dynamic Island pet</a> — Dynamic Island pet companion
+        </td>
+        <td>
+          <a href="https://medium.com/@khlebobul/how-to-work-with-dynamic-island-in-the-flutter-application-89851b0d9887">
+            <img src="icons/icons/medium.png" alt="Medium" height="20" />
+          </a>
+          <a href="https://github.com/khlebobul/dynamic_island_pet">
+            <img src="icons/icons/github.png" alt="GitHub" height="20" />
+          </a>
+        </td>
       </tr>
     </tbody>
   </table>
