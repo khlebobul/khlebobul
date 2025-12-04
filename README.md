@@ -13,39 +13,79 @@
 <table>
   <thead>
     <tr>
-      <th>Name</th>
+      <th width="34"></th>
       <th>Description</th>
-      <th>Links</th>
+      <th width="50">Links</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://pegma.vercel.app">Pegma</a></td>
-      <td>Discover the pure challenge of the classic Peg Solitaire — free, open source, and fun to master!</td>
+      <td width="34">
+        <a href="https://pegma.vercel.app">
+          <img src="icons/apps/pegma.png" alt="Pegma" height="32"/>
+        </a>
+      </td>
       <td>
-        <a href="https://apps.apple.com/ru/app/pegma-peg-solitaire/id6754343848">App Store</a> /
-        <a href="https://play.google.com/store/apps/details?id=com.khlebobul.pegma">Google Play</a> /
-        <a href="https://github.com/khlebobul/pegma">Github</a> /
-        <a href="https://www.rustore.ru/catalog/app/com.khlebobul.pegma">Rustore</a>
+        <a href="https://pegma.vercel.app">Pegma</a> — Discover the pure challenge of the classic Peg Solitaire — free, open source, and fun to master!
+      </td>
+      <td>
+        <a href="https://apps.apple.com/ru/app/pegma-peg-solitaire/id6754343848">
+          <img src="icons/icons/app-store.png" alt="App Store" height="20" />
+        </a>
+        <a href="https://play.google.com/store/apps/details?id=com.khlebobul.pegma">
+          <img src="icons/icons/google_play.png" alt="Google Play" height="20" />
+        </a>
+        <a href="https://github.com/khlebobul/pegma">
+          <img src="icons/icons/github.png" alt="GitHub" height="20" />
+        </a>
+        <a href="https://www.rustore.ru/catalog/app/com.khlebobul.pegma">
+          <img src="icons/icons/rustore.png" alt="RuStore" height="20" />
+        </a>
       </td>
     </tr>
     <tr>
-      <td><a href="https://boardbuddyapp.vercel.app">Board Buddy</a></td>
-      <td>Your ultimate board game companion</td>
+      <td width="34">
+        <a href="https://boardbuddyapp.vercel.app">
+          <img src="icons/apps/board_buddy.png" alt="Board Buddy" height="32" />
+        </a>
+      </td>
       <td>
-        <a href="https://apps.apple.com/ru/app/board-buddy-score-counter/id6743980638">App Store</a> /
-        <a href="https://play.google.com/store/apps/details?id=com.khlebobul.board_buddy">Google Play</a> /
-        <a href="https://github.com/khlebobul/board_buddy">Github</a> /
-        <a href="https://www.rustore.ru/catalog/app/com.khlebobul.board_buddy">Rustore</a>
+        <a href="https://boardbuddyapp.vercel.app">Board Buddy</a> — Your ultimate board game companion
+      </td>
+      <td>
+        <a href="https://apps.apple.com/ru/app/board-buddy-score-counter/id6743980638">
+          <img src="icons/icons/app-store.png" alt="App Store" height="20" />
+        </a>
+        <a href="https://play.google.com/store/apps/details?id=com.khlebobul.board_buddy">
+          <img src="icons/icons/google_play.png" alt="Google Play" height="20" />
+        </a>
+        <a href="https://github.com/khlebobul/board_buddy">
+          <img src="icons/icons/github.png" alt="GitHub" height="20" />
+        </a>
+        <a href="https://www.rustore.ru/catalog/app/com.khlebobul.board_buddy">
+          <img src="icons/icons/rustore.png" alt="RuStore" height="20" />
+        </a>
       </td>
     </tr>
     <tr>
-      <td><a href="https://knightsgraph.vercel.app">Knight's Graph</a></td>
-      <td>Fascinating puzzle game based on the ancient Knight's Tour problem</td>
+      <td width="34">
+        <a href="https://knightsgraph.vercel.app">
+          <img src="icons/apps/knights_graph.png" alt="Knight's Graph" height="32" />
+        </a>
+      </td>
       <td>
-        <a href="https://apps.apple.com/us/app/knights-graph/id6737812039">App Store</a> /
-        <a href="https://play.google.com/store/apps/details?id=com.khlebobul.knights_graph">Google Play</a> /
-        <a href="https://www.rustore.ru/catalog/app/com.khlebobul.knights_graph">Rustore</a>
+        <a href="https://knightsgraph.vercel.app">Knight's Graph</a> — Fascinating puzzle game based on the ancient Knight's Tour problem
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/knights-graph/id6737812039">
+          <img src="icons/icons/app-store.png" alt="App Store" height="20" />
+        </a>
+        <a href="https://play.google.com/store/apps/details?id=com.khlebobul.knights_graph">
+          <img src="icons/icons/google_play.png" alt="Google Play" height="20" />
+        </a>
+        <a href="https://www.rustore.ru/catalog/app/com.khlebobul.knights_graph">
+          <img src="icons/icons/rustore.png" alt="RuStore" height="20" />
+        </a>
       </td>
     </tr>
   </tbody>
