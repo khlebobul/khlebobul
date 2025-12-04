@@ -161,34 +161,28 @@
       <tr>
         <th>Name</th>
         <th>Description</th>
-        <th>Links</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td><a href="https://www.raycast.com/khlebobul">Raycast extensions</a></td>
         <td>Helpful raycast extensions for developers</td>
-        <td>-</td>
       </tr>
       <tr>
         <td><a href="https://lego-processor.vercel.app">Lego block image processor</a></td>
         <td>Images ➭ Lego blocks instruction</td>
-        <td>-</td>
       </tr>
       <tr>
         <td><a href="https://khlebobul26.gumroad.com/l/figure8">Figure 8</a></td>
         <td>Companion for maintaining eye health</td>
-        <td>-</td>
       </tr>
       <tr>
         <td><a href="https://www.figma.com/community/plugin/1441862652881971511/square-ribbon">Square ribbon</a></td>
         <td>Figma plugin</td>
-        <td>-</td>
       </tr>
       <tr>
         <td><a href="https://wave-logo.vercel.app/">Wave logo generator</a></td>
         <td>Logo buddy</td>
-        <td>-</td>
       </tr>
     </tbody>
   </table>
