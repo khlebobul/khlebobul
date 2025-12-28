@@ -245,6 +245,16 @@
           </a></div>
         </td>
       </tr>
+      <tr>
+        <td>
+          <a href="https://github.com/khlebobul/build123d_models">build123d_models</a> — A collection of 3D models created using build123d
+        </td>
+        <td width="90" align="center">
+          </a></div> <div style="text-decoration: none"><a href="https://github.com/khlebobul/build123d_models">
+            <img src="icons/icons/github.png" alt="GitHub" height="18" border="0" />
+          </a></div>
+        </td>
+      </tr>
     </tbody>
   </table>
 </details>
