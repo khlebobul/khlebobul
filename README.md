@@ -156,6 +156,10 @@
     </thead>
     <tbody>
       <tr>
+        <td><a href="https://chromewebstore.google.com/detail/speed-reader/iifbkjcdekfokhpjbiabfgjlloabpdlp">Speed Reader</a></td>
+        <td>Chrome extensions to improve reading speed with fast, sequential visual presentation</td>
+      </tr>
+      <tr>
         <td><a href="https://www.raycast.com/khlebobul">Raycast extensions</a></td>
         <td>Helpful raycast extensions for developers</td>
       </tr>
