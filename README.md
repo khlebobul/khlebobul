@@ -157,7 +157,7 @@
     <tbody>
       <tr>
         <td><a href="https://chromewebstore.google.com/detail/hoelbnpckhabboheiepjdehipgmlkina">Pixel Art</a></td>
-        <td>Images → Pixel Art Chrome extension</td>
+        <td>Images ➭ Pixel Art Chrome extension</td>
       </tr>      
       <tr>
         <td><a href="https://chromewebstore.google.com/detail/speed-reader/iifbkjcdekfokhpjbiabfgjlloabpdlp">Speed Reader</a></td>
