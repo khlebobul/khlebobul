@@ -156,6 +156,10 @@
     </thead>
     <tbody>
       <tr>
+        <td><a href="hhttps://chromewebstore.google.com/detail/table-of-contents-generat/epdcdkmalfmenpieemggjjijcnnohfoo">Table of Contents Generator</a></td>
+        <td>Chrome extension to generate TOC for any webpage</td>
+      </tr>
+      <tr>
         <td><a href="https://chromewebstore.google.com/detail/hoelbnpckhabboheiepjdehipgmlkina">Pixel Art</a></td>
         <td>Images ➭ Pixel Art Chrome extension</td>
       </tr>      
