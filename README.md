@@ -19,6 +19,21 @@
     </tr>
   </thead>
   <tbody>
+   <tr>
+      <td width="60" align="center">
+        <a href="https://speed-reader.pro/">
+          <img src="icons/apps/speed_reader.png" alt="Speed Reader" height="32" border="0"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://speed-reader.pro/">Speed Reader</a> — macOS app for speed reading with RSVP technology
+      </td>
+      <td width="90" align="center">
+        <div style="text-decoration: none"><a href="https://speed-reader.pro/">
+          <img src="icons/icons/web.png" alt="App Store" height="18" border="0" />
+        </a></div>
+      </td>
+    </tr>
     <tr>
       <td width="60" align="center">
         <a href="https://pegma.vercel.app">
@@ -164,7 +179,7 @@
         <td>Images ➭ Pixel Art Chrome extension</td>
       </tr>      
       <tr>
-        <td><a href="https://chromewebstore.google.com/detail/speed-reader/iifbkjcdekfokhpjbiabfgjlloabpdlp">Speed Reader</a></td>
+        <td><a href="https://chromewebstore.google.com/detail/speed-reader/iifbkjcdekfokhpjbiabfgjlloabpdlp">Speed Reader (extension)</a></td>
         <td>Chrome extension to improve reading speed with fast, sequential visual presentation</td>
       </tr>
       <tr>
