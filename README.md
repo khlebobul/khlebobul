@@ -50,8 +50,6 @@
           <img src="icons/icons/google_play.png" alt="Google Play" height="18" border="0" />
         </a></div> <div style="text-decoration: none"><a href="https://github.com/khlebobul/pegma">
           <img src="icons/icons/github.png" alt="GitHub" height="18" border="0" />
-        </a></div> <div style="text-decoration: none"><a href="https://www.rustore.ru/catalog/app/com.khlebobul.pegma">
-          <img src="icons/icons/rustore.png" alt="RuStore" height="18" border="0" />
         </a></div>
       </td>
     </tr>
@@ -71,8 +69,6 @@
           <img src="icons/icons/google_play.png" alt="Google Play" height="18" border="0" />
         </a></div> <div style="text-decoration: none"><a href="https://github.com/khlebobul/board_buddy">
           <img src="icons/icons/github.png" alt="GitHub" height="18" border="0" />
-        </a></div> <div style="text-decoration: none"><a href="https://www.rustore.ru/catalog/app/com.khlebobul.board_buddy">
-          <img src="icons/icons/rustore.png" alt="RuStore" height="18" border="0" />
         </a></div>
       </td>
     </tr>
@@ -90,8 +86,6 @@
           <img src="icons/icons/app-store.png" alt="App Store" height="18" border="0" />
         </a></div> <div style="text-decoration: none"><a href="https://play.google.com/store/apps/details?id=com.khlebobul.knights_graph">
           <img src="icons/icons/google_play.png" alt="Google Play" height="18" border="0" />
-        </a></div> <div style="text-decoration: none"><a href="https://www.rustore.ru/catalog/app/com.khlebobul.knights_graph">
-          <img src="icons/icons/rustore.png" alt="RuStore" height="18" border="0" />
         </a></div>
       </td>
     </tr>
