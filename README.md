@@ -197,6 +197,16 @@
     <tbody>
       <tr>
         <td>
+          <a href="https://github.com/khlebobul/speed-reader">Speed Reader</a> — Native macOS speed reader using RSVP and ORP — PDFs, EPUB, DOCX, articles, OCR, and four focused modes
+        </td>
+        <td width="90" align="center">
+          <div style="text-decoration: none"><a href="https://github.com/khlebobul/speed-reader">
+            <img src="icons/icons/github.png" alt="GitHub" height="18" border="0" />
+          </a></div>
+        </td>
+      </tr>
+      <tr>
+        <td>
           <a href="https://github.com/khlebobul/flutter_voice_control_example_app">Flutter voice control example app</a> — Flutter app example with local speech recognition and voice command control using sherpa-onnx
         </td>
         <td width="90" align="center">
@@ -256,7 +266,7 @@
           <a href="https://github.com/khlebobul/build123d_models">build123d_models</a> — A collection of 3D models created using build123d
         </td>
         <td width="90" align="center">
-          </a></div> <div style="text-decoration: none"><a href="https://github.com/khlebobul/build123d_models">
+          <div style="text-decoration: none"><a href="https://github.com/khlebobul/build123d_models">
             <img src="icons/icons/github.png" alt="GitHub" height="18" border="0" />
           </a></div>
         </td>
