@@ -20,11 +20,6 @@
   </thead>
   <tbody>
    <tr>
-      <td width="60" align="center">
-        <a href="https://speed-reader.pro/">
-          <img src="icons/apps/speed_reader.png" alt="Speed Reader" height="32" border="0"/>
-        </a>
-      </td>
       <td>
         <a href="https://speed-reader.pro/">Speed Reader</a> — macOS app for speed reading with RSVP technology
       </td>
