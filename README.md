@@ -19,16 +19,6 @@
     </tr>
   </thead>
   <tbody>
-   <tr>
-      <td>
-        <a href="https://speed-reader.pro/">Speed Reader</a> — macOS app for speed reading with RSVP technology
-      </td>
-      <td width="90" align="center">
-        <div style="text-decoration: none"><a href="https://speed-reader.pro/">
-          <img src="icons/icons/web.png" alt="App Store" height="18" border="0" />
-        </a></div>
-      </td>
-    </tr>
     <tr>
       <td width="60" align="center">
         <a href="https://pegma.vercel.app">
