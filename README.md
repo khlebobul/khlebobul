@@ -21,7 +21,7 @@
   <tbody>
     <tr>
       <td width="60" align="center">
-        <a href="https://github.com/minimo-pro/minimo_video">
+        <a href="https://minimo-video.vercel.app/">
           <img src="icons/apps/minimo_video.png" alt="minimo (video)" height="32" border="0"/>
         </a>
       </td>
