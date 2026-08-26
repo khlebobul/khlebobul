@@ -21,6 +21,25 @@
   <tbody>
     <tr>
       <td width="60" align="center">
+        <a href="https://github.com/minimo-pro/minimo_video">
+          <img src="icons/apps/minimo_video.png" alt="minimo (video)" height="32" border="0"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/minimo-pro/minimo_video">minimo (video)</a> — Shrink videos directly on your device — no cloud upload, no subscription
+      </td>
+      <td width="90" align="center">
+        <div style="text-decoration: none"><a href="https://apps.apple.com/us/app/minimo-video/id6787456951">
+          <img src="icons/icons/app-store.png" alt="App Store" height="18" border="0" />
+        </a></div> <div style="text-decoration: none"><a href="https://play.google.com/store/apps/details?id=com.khlebobul.minimo_video">
+          <img src="icons/icons/google_play.png" alt="Google Play" height="18" border="0" />
+        </a></div> <div style="text-decoration: none"><a href="https://github.com/minimo-pro/minimo_video">
+          <img src="icons/icons/github.png" alt="GitHub" height="18" border="0" />
+        </a></div>
+      </td>
+    </tr>
+    <tr>
+      <td width="60" align="center">
         <a href="https://pegma.vercel.app">
           <img src="icons/apps/pegma.png" alt="Pegma" height="32" border="0"/>
         </a>
