@@ -21,12 +21,12 @@
   <tbody>
     <tr>
       <td width="60" align="center">
-        <a href="https://minimo-video.vercel.app/">
+        <a href="https://minimo-video.vercel.app">
           <img src="icons/apps/minimo_video.png" alt="minimo (video)" height="32" border="0"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/minimo-pro/minimo_video">minimo (video)</a> — Shrink videos directly on your device — no cloud upload, no subscription
+        <a href="https://minimo-video.vercel.app">minimo (video)</a> — Shrink videos directly on your device — no cloud upload, no subscription
       </td>
       <td width="90" align="center">
         <div style="text-decoration: none"><a href="https://apps.apple.com/us/app/minimo-video/id6787456951">
