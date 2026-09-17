@@ -216,6 +216,28 @@
     <tbody>
       <tr>
         <td>
+          <a href="https://github.com/khlebobul/esp_pomodoro_timer">ESP Pomodoro Timer</a> — ESP32-S3 pomodoro timer controlled by orientation — Waveshare 1.8" AMOLED + ultra-smooth 6-axis IMU, retro pixel LVGL UI
+        </td>
+        <td width="90" align="center">
+          <div style="text-decoration: none"><a href="https://github.com/khlebobul/esp_pomodoro_timer">
+            <img src="icons/icons/github.png" alt="GitHub" height="18" border="0" />
+          </a></div>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="https://github.com/khlebobul/esp_ble_finder">ESP BLE Finder</a> — findphone on a Waveshare ESP32-S3-Touch-AMOLED-1.8 — hunt nearby BLE by RSSI, dotted UI, parking-sensor clicks
+        </td>
+        <td width="90" align="center">
+          <div style="text-decoration: none"><a href="https://www.hackster.io/news/track-down-your-misplaced-phone-instantly-with-an-esp32-94822dc302eb">
+            <img src="icons/icons/web.png" alt="Hackster" height="18" border="0" />
+          </a></div> <div style="text-decoration: none"><a href="https://github.com/khlebobul/esp_ble_finder">
+            <img src="icons/icons/github.png" alt="GitHub" height="18" border="0" />
+          </a></div>
+        </td>
+      </tr>
+      <tr>
+        <td>
           <a href="https://github.com/khlebobul/speed-reader">Speed Reader</a> — Native macOS speed reader using RSVP and ORP — PDFs, EPUB, DOCX, articles, OCR, and four focused modes
         </td>
         <td width="90" align="center">
