@@ -210,7 +210,7 @@
     <thead>
       <tr>
         <th>Description</th>
-        <th width="90" align="center"></th>
+        <th width="130" align="center"></th>
       </tr>
     </thead>
     <tbody>
@@ -228,10 +228,22 @@
         <td>
           <a href="https://github.com/khlebobul/esp_ble_finder">ESP BLE Finder</a> — findphone on a Waveshare ESP32-S3-Touch-AMOLED-1.8 — hunt nearby BLE by RSSI, dotted UI, parking-sensor clicks
         </td>
-        <td width="90" align="center">
+        <td width="130" align="center">
           <div style="text-decoration: none"><a href="https://www.hackster.io/news/track-down-your-misplaced-phone-instantly-with-an-esp32-94822dc302eb">
             <img src="icons/icons/web.png" alt="Hackster" height="18" border="0" />
+          </a></div> <div style="text-decoration: none"><a href="https://www.xda-developers.com/this-cool-esp32s3-project-is-like-a-geiger-counter-but-for-finding-your-phone-instead-of-radiation/">
+            <img src="icons/icons/web.png" alt="XDA" height="18" border="0" />
           </a></div> <div style="text-decoration: none"><a href="https://github.com/khlebobul/esp_ble_finder">
+            <img src="icons/icons/github.png" alt="GitHub" height="18" border="0" />
+          </a></div>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="https://github.com/khlebobul/esp_busy_tag">ESP Busy Tag</a> — open-source ESP32 Busy Tag alternative for a Waveshare ESP32-S3-Touch-AMOLED-1.8 — FREE/BUSY/MEETING status via onboard button or USB serial
+        </td>
+        <td width="130" align="center">
+          <div style="text-decoration: none"><a href="https://github.com/khlebobul/esp_busy_tag">
             <img src="icons/icons/github.png" alt="GitHub" height="18" border="0" />
           </a></div>
         </td>
