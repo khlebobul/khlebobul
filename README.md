@@ -21,6 +21,25 @@
   <tbody>
     <tr>
       <td width="60" align="center">
+        <a href="https://minimo-photo.vercel.app">
+          <img src="icons/apps/minimo_photo.png" alt="minimo (video)" height="32" border="0"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://minimo-photo.vercel.app">minimo (photo)</a> — Shrink photos directly on your device — no cloud upload, no subscription
+      </td>
+      <td width="90" align="center">
+        <div style="text-decoration: none"><a href="https://apps.apple.com/us/app/minimo-photo-compressor/id6822256099">
+          <img src="icons/icons/app-store.png" alt="App Store" height="18" border="0" />
+        </a></div> <div style="text-decoration: none"><a href="https://play.google.com/store/apps/details?id=com.khlebobul.minimo_photo">
+          <img src="icons/icons/google_play.png" alt="Google Play" height="18" border="0" />
+        </a></div> <div style="text-decoration: none"><a href="https://github.com/minimo-pro/minimo_photo">
+          <img src="icons/icons/github.png" alt="GitHub" height="18" border="0" />
+        </a></div>
+      </td>
+    </tr>
+    <tr>
+      <td width="60" align="center">
         <a href="https://minimo-video.vercel.app">
           <img src="icons/apps/minimo_video.png" alt="minimo (video)" height="32" border="0"/>
         </a>
@@ -229,7 +248,9 @@
           <a href="https://github.com/khlebobul/esp_ble_finder">ESP BLE Finder</a> — findphone on a Waveshare ESP32-S3-Touch-AMOLED-1.8 — hunt nearby BLE by RSSI, dotted UI, parking-sensor clicks
         </td>
         <td width="130" align="center">
-          <div style="text-decoration: none"><a href="https://www.hackster.io/news/track-down-your-misplaced-phone-instantly-with-an-esp32-94822dc302eb">
+          <div style="text-decoration: none"><a href="https://docs.waveshare.com/ESP32-S3-Touch-AMOLED-1.8/Resources-And-Documents#gleb-shalimov---hunt-nearby-ble-by-rssi-dotted-ui-parking-sensor-clicks">
+            <img src="icons/icons/web.png" alt="Waveshare" height="18" border="0" />
+          </a></div> <div style="text-decoration: none"><a href="https://www.hackster.io/news/track-down-your-misplaced-phone-instantly-with-an-esp32-94822dc302eb">
             <img src="icons/icons/web.png" alt="Hackster" height="18" border="0" />
           </a></div> <div style="text-decoration: none"><a href="https://www.xda-developers.com/this-cool-esp32s3-project-is-like-a-geiger-counter-but-for-finding-your-phone-instead-of-radiation/">
             <img src="icons/icons/web.png" alt="XDA" height="18" border="0" />
